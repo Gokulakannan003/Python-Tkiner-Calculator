@@ -1,5 +1,5 @@
 - My first application is this calculator
-![image](https://github.com/Gokulakannan2008/Python-Tkinter-Calculator/assets/157937286/a187414c-44f5-4915-a070-39d9b07d2013)
+![Screenshot 2024-09-15 143509](https://github.com/user-attachments/assets/cd4769de-ded6-4778-8a64-6056b937f5f4)
 - This calculator suported in only my laptop but you can change the grid system and use it in your system  
 - Author
 Gokulakannan
