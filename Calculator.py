@@ -18,7 +18,7 @@ from tkinter import messagebox
 root = Tk()
 root.state("zoomed")
 root.title("Calculator")
-
+root.configure(border=5)
 
 c = StringVar()
 
@@ -34,9 +34,9 @@ label1 = Label(frame1, text="", font=("sans-serif", 89, "bold"), bg="Light green
 label1.grid(row=0, column=0, columnspan=9)
 
 
-enter =Entry(frame1, font=font1, textvariable=c, width=53)
+enter =Entry(frame1, font=font1, textvariable=c, width=52)
 enter.configure(justify="right", relief=SOLID)
-enter.grid(row=1, column=0)
+enter.grid(row=1, column=0, padx=6)
 
 
 def calculate():
