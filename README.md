@@ -3,3 +3,5 @@
 - This calculator suported in only my laptop but you can change the grid system and use it in your system  
 - Author
 Gokulakannan
+
+<a href="https://gk-codes-store.neocities.org/" target=_blank>exe file avilable on my store</a>
