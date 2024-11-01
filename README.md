@@ -4,4 +4,9 @@
 - Author
 Gokulakannan
 
+<h3>New version<\3>
+
+![Screenshot 2024-11-01 182715](https://github.com/user-attachments/assets/5ffc33dc-d01c-4477-bd7d-12dd3d3f0b8c)
+
+
 <a href="https://gk-codes-store.neocities.org/" target=_blank>exe file avilable on my store</a>
